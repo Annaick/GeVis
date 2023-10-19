@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fonction.js</file>
+        <file>Media/delete-2-svgrepo-com.svg</file>
+        <file>Media/edit-delete-svgrepo-com.svg</file>
+        <file>Media/fond.png</file>
+        <file>Media/fond2.png</file>
+        <file>Media/pencil-7-svgrepo-com.svg</file>
+        <file>Media/pencil-edit-svgrepo-com.svg</file>
+        <file>Media/plus.png</file>
+        <file>Media/plus-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
